@@ -1,5 +1,5 @@
 <?php
-                        //Dependency Inversion Principle
+                        //Dependency Injection or Inversion Of Controll Principle
 
 // //bad singture of writting oop
 //     //hard dependency through one class pass another class
